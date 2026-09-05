@@ -1,0 +1,11 @@
+{
+  "index.qmd": {
+    "index.html": "123b47dd"
+  },
+  "publications.qmd": {
+    "publications.html": "436eb2bc"
+  },
+  "talks.qmd": {
+    "talks.html": "2bcd1132"
+  }
+}

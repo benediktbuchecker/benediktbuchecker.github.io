@@ -1,0 +1,34 @@
+---
+title: "Benedikt Buchecker"
+page-layout: full
+---
+
+::: {.columns width="2000px"}
+
+::: {.column width="40%"}
+
+<img title="Photo" alt="Photo" src="/images/profile.jpg" width="65%">
+
+### Contact
+E-mail:  
+**benedikt.buchecker@kuleuven.be** 
+
+Address:  
+Department of Mathematics, KU Leuven  
+Celestijnenlaan 200B  
+3001 Leuven (Heverlee)  
+Belgium
+
+:::
+
+::: {.column width="40%"}
+
+I am a PhD student in mathematics at KU Leuven (Belgium), working in the [Classical Analysis](https://wis.kuleuven.be/analyse) group. My supervisors are [Aron Wennman](https://sites.google.com/view/aronwennman) and [Benjamin Eichinger](https://benjamineichinger.eu/). Since November 2025, I am a FWO PhD fellow in fundamental research.
+
+My research lies in Complex Analysis, focusing particularly on the asymptotic properties of extremal polynomials, including Chebyshev and orthogonal polynomials. I am also interested in charged particle systems such as Coloumb gases.
+
+My master's thesis has been awarded the [Studienpreis](https://www.oemg.ac.at/Preise.html) of the Austrian Mathematical Society (ÖMG).
+<br><br><br><br><br>
+<p style="text-align:right;"><img title="KU Leuven Logo" alt="KU Leuven Logo" src="/images/KU-Leuven-logo.png" width="40%"><img title="FWO Logo" alt="FWO Logo" src="/images/fwo_kleur.png" width="30%"></p>
+
+:::

@@ -1,0 +1,21 @@
+---
+title: Publications
+---
+
+### Preprints
+
+- *Chebyshev polynomials on a Jordan arc.*  
+With B. Eichinger, O. Rubin, A. Wennman. Available on [arXiv](https://arxiv.org/abs/2608.13445) (2026).
+
+- *Szegő's theorem on a Jordan arc.*  
+Available on [arXiv](https://arxiv.org/abs/2509.12445) (2025).
+
+### Accepted Papers
+
+- *Asymptotics of $L^r$ extremal polynomials for $0 < r \leq \infty$ on $C^{1+}$ Jordan regions.*  
+With B. Eichinger, M. Zinchenko. Available on [arXiv](https://arxiv.org/abs/2502.17616) (2025).
+
+### Master's thesis 
+
+- *Asymptotics of extremal polynomials on a Jordan curve or arc.*  
+Supervised by H. Woracek and B. Eichinger. Available [online](https://repositum.tuwien.at/handle/20.500.12708/216601) (2025).
