@@ -107,7 +107,7 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -147,17 +147,7 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#preprints" id="toc-preprints" class="nav-link active" data-scroll-target="#preprints">Preprints</a></li>
-  <li><a href="#accepted-papers" id="toc-accepted-papers" class="nav-link" data-scroll-target="#accepted-papers">Accepted Papers</a></li>
-  <li><a href="#masters-thesis" id="toc-masters-thesis" class="nav-link" data-scroll-target="#masters-thesis">Master’s thesis</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -189,11 +179,11 @@ With B. Eichinger, O. Rubin, A. Wennman. Available on <a href="https://arxiv.org
 Available on <a href="https://arxiv.org/abs/2509.12445">arXiv</a> (2025).</p></li>
 </ul>
 </section>
-<section id="accepted-papers" class="level3">
-<h3 class="anchored" data-anchor-id="accepted-papers">Accepted Papers</h3>
+<section id="published-papers" class="level3">
+<h3 class="anchored" data-anchor-id="published-papers">Published Papers</h3>
 <ul>
 <li><em>Asymptotics of <span class="math inline">\(L^r\)</span> extremal polynomials for <span class="math inline">\(0 &lt; r \leq \infty\)</span> on <span class="math inline">\(C^{1+}\)</span> Jordan regions.</em><br>
-With B. Eichinger, M. Zinchenko. Available on <a href="https://arxiv.org/abs/2502.17616">arXiv</a> (2025).</li>
+With B. Eichinger, M. Zinchenko. In <a href="https://doi.org/10.1007/s00365-026-09786-z">Constructive Approximation</a>, also available on <a href="https://arxiv.org/abs/2502.17616">arXiv</a> (2025).</li>
 </ul>
 </section>
 <section id="masters-thesis" class="level3">
@@ -280,7 +270,7 @@ Supervised by H. Woracek and B. Eichinger. Available <a href="https://repositum.
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/benediktbuchecker\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
